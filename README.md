@@ -2,9 +2,9 @@
 
 <div align="center">
    <a href="mailto:jonnathan1093@gmail.com?subject=Professional%20Services"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
-   <a href="/"><img width="45px" src="https://img.icons8.com/fluency/344/facebook-new.png"></a>
-	  <a href="https://www.instagram.com/jonnathan1093/"><img width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
-	  <a href="https://twitter.com/jonnathan1093"><img width="45px" src="https://img.icons8.com/fluency/344/twitter.png"></a>
+   <a href="https://www.facebook.com"><img width="45px" src="https://img.icons8.com/fluency/344/facebook-new.png"></a>
+	  <a href="https://www.instagram.com/"><img width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
+	  <a href="https://twitter.com/"><img width="45px" src="https://img.icons8.com/fluency/344/twitter.png"></a>
   <a href="https://t.me/Alucard1093"><img alt="" width="45px"  src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 </div>
 
