@@ -1,6 +1,6 @@
 
 ## Hi, my nickname is Jonnathan1093
-<img alt="400px" width="90%" src="https://www.sharlenecalzature.it/wp-content/uploads/2020/09/load2.gif"/>
+<img alt="320px" width="100%" src="https://i.imgur.com/KVyDTxn.gif"/>
 
 <div align="center">
    <a href="mailto:jonnathan1093@gmail.com"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
