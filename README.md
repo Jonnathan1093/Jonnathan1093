@@ -1,7 +1,7 @@
 <img alt="320px" width="100%" src="https://i.imgur.com/KVyDTxn.gif"/>
 
 <div align="center">
-   <a href="mailto:jonnathan1093@gmail.com"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
+   <a href="mailto:jonnathan1093@gmail.com?subject=Professional%20Services"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
    <a href="/"><img width="45px" src="https://img.icons8.com/fluency/344/facebook-new.png"></a>
 	  <a href="https://www.instagram.com/jonnathan1093/"><img width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
 	  <a href="https://twitter.com/jonnathan1093"><img width="45px" src="https://img.icons8.com/fluency/344/twitter.png"></a>
@@ -38,3 +38,11 @@
   <img alt="HEROKU" width="45px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
   <img alt="AWS" width="45px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </div>
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Jonnathan1093&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonnathan1093&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
