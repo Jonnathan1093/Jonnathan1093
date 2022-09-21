@@ -10,8 +10,7 @@
 
 ## About me:
 - Python junior developer
-- I started studying Python as a hobby, but now
-- I'm sure I want to turn it into a profession
+- I started studying Python as a hobby, but now i'm sure I want to turn it into a profession
 
 ## What I'm doing now
 - I want to improve my portfolio site
