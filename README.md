@@ -1,6 +1,6 @@
 
 ## Hi, my nickname is Jonnathan1093
-<img alt="400px" width="90%" src="https://rishavanand.github.io/static/images/greetings.gif"/>
+<img alt="400px" width="90%" src="https://c.tenor.com/FYRrhY_e9YUAAAAC/loading-preview-preview.gif"/>
 
 <div align="center">
    <a href="mailto:jonnathan1093@gmail.com"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
