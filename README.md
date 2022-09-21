@@ -1,5 +1,3 @@
-
-## Hi, my nickname is Jonnathan1093
 <img alt="320px" width="100%" src="https://i.imgur.com/KVyDTxn.gif"/>
 
 <div align="center">
