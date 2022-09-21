@@ -25,10 +25,6 @@
 
 <p>From time to time I post on my social networks some technology tips, also some anime and manga.</p>
 
-
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jonnathan1093&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <div align="center">
   <h2>Languages and Tools:</h2>
   <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
