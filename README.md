@@ -25,16 +25,16 @@
 
 <p>From time to time I post on my social networks some technology tips, also some anime and manga.</p>
 
+## Languages and Tools
 <div align="center">
-  <h2>Languages and Tools:</h2>
   <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-  <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-  <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  <img alt="POSTGRESQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img alt="PYTHON" width="26px"src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img alt="GIT" width="26px"src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img alt="GITHUB" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
-  <img alt="BOOTSTRAP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/>
-  <img alt="HEROKU" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
-  <img alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img alt="POSTGRESQL" width="45px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img alt="PYTHON" width="45px"src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img alt="GIT" width="45px"src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img alt="GITHUB" width="45px" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
+  <img alt="BOOTSTRAP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/>
+  <img alt="HEROKU" width="45px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+  <img alt="AWS" width="45px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </div>
