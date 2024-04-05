@@ -1,44 +1,33 @@
-<img alt="320px" width="100%" src="https://i.imgur.com/KVyDTxn.gif"/>
 
-<div align="center">
-   <a href="mailto:jonnathan1093@gmail.com?subject=Professional%20Services"><img width="45px" src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
-   <a href="https://www.facebook.com"><img width="45px" src="https://img.icons8.com/fluency/344/facebook-new.png"></a>
-	  <a href="https://www.instagram.com/"><img width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"></a>
-	  <a href="https://twitter.com/"><img width="45px" src="https://img.icons8.com/fluency/344/twitter.png"></a>
-  <a href="https://t.me/Alucard1093"><img alt="" width="45px"  src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-</div>
+<img alt="320px" width="100%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/> 
 
-## About me:
-- I started studying Python as a hobby, but now i'm sure I want to turn it into a profession
-- Python junior developer
+## Sobre mi:
+<p>
+👋 ¡Hola a todos! Soy Jonnathan. Mi formación como tecnólogo en análisis de sistemas y mi carrera en ingeniería en tecnologías de la información me han proporcionado una amplia gama de habilidades técnicas y conocimientos en informática y tecnología. 🖥️ Además, mi formación en pedagogía de idiomas nacionales y extranjeros, con énfasis en el inglés, me ha dotado de habilidades de comunicación intercultural y enseñanza efectiva. 🗣
 
-## What I'm doing now
-- I want to improve my portfolio site
-- I am learning how to make bots for telegram
+💡 Hoy en día, me apasiona explorar el mundo del análisis de datos. Soy un entusiasta autodidacta cuyo viaje en este campo es una aventura en constante evolución. Me encanta sumergirme en proyectos de código abierto donde puedo aplicar mis habilidades en herramientas como SQL, Python y Pandas.
 
-## What languages I am currently learning
-- Html
-- Css
+🌐 Mis intereses en el análisis de datos abarcan una amplia variedad de áreas, primero desde la seguridad de la información, hasta la demografía, salud y la economía. Me motiva especialmente trabajar en proyectos que tengan un impacto positivo en la sociedad, combinando mi habilidad técnica con mi pasión por explorar y comprender los datos.
+
+✨ Estoy emocionado por las oportunidades que el futuro tiene reservadas en el fascinante mundo del análisis de datos y ansioso por seguir aprendiendo y creciendo en este emocionante campo. <p>
+
+## ¿Que habilidades estoy aprendiendo?
+- English
+- Html / Css
+- Data analytics
 - Python
+## ¿Qué hago además de aprender?
+<p>De vez en cuando me gusta mirar series de television, también algo de anime y manga.<p>
 
-## What I do besides programming
-
-<p>From time to time I post on my social networks some technology tips, also some anime and manga.</p>
-
-## Languages and Tools
+## ¡Habilidades y herramientas!
 <div align="center">
   <img  alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
   <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
   <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  <img alt="POSTGRESQL" width="45px" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img alt="PYTHON" width="45px"src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img alt="GIT" width="45px"src="https://img.icons8.com/color/48/000000/git.png"/>
   <img alt="GITHUB" width="45px" src="https://img.icons8.com/plasticine/100/000000/github.png"/>
-  <img alt="BOOTSTRAP" width="45px" src="https://img.icons8.com/color/344/bootstrap.png"/>
-  <img alt="HEROKU" width="45px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
-  <img alt="AWS" width="45px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </div>
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
